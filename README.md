@@ -20,6 +20,10 @@ Resource Utilization: Visualize staff allocation and patient inflow/outflow tren
 Patient Demographics: Insights into the types of patients waiting (e.g., age, gender, condition type).
 Trend Analysis: Track changes in wait times over time to identify trends or seasonal variations.
 
+![Dashboard](https://github.com/user-attachments/assets/fadc6fd9-2d0b-4c1b-b671-3b92a2e624f2)
+
+![Detailed](https://github.com/user-attachments/assets/6b1815e7-a10c-410f-a246-1a4997d522ea)
+
 Usage:
 
 1.Download the patient_waitlist.pbix file.
