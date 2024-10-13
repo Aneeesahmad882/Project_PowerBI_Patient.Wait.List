@@ -23,18 +23,24 @@ Trend Analysis: Track changes in wait times over time to identify trends or seas
 Usage:
 
 1.Download the patient_waitlist.pbix file.
+
 2.Open it using Power BI Desktop.
 
 Future Enhancements:
 
 1.Add predictive analytics to forecast future patient wait times.
+
 2.Include more detailed demographic analysis for better patient flow management.
+
 3.Integrate real-time data from healthcare systems for live monitoring.
 
+
 Contact:
+
 If you have any questions or suggestions regarding this project, please feel free to reach out:
 
-Your Name
+Your Name : Anees
+
 Email: aneesahmad882@gmail.com
 
 GitHub: Aneesahmad882
